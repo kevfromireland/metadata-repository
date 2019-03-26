@@ -1,1 +1,1 @@
-# metadata-repository
+# Repository containing Salesforce metadata
